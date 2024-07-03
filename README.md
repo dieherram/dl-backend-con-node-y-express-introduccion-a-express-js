@@ -1,4 +1,4 @@
-# Desafío - Mi Repertorio
+# Desafío - Mi Repertorio 🎶
 
 En este desafío, he desarrollado una aplicación backend con Node.js y Express que gestiona el repertorio de canciones para una escuela de música.
 
